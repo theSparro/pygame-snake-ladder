@@ -1,6 +1,6 @@
 CNS1001 Snake and Ladder
 Tutor: Mrs. Michelle March
-Group Members: Joel Wisdom, Spencer Darlington, Brianna James, Daniel Hylton
+Student: Joel Wisdom
 
 About
 ____________________________________________________________________________
