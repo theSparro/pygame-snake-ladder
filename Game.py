@@ -1,4 +1,4 @@
-# Programmers: Joel Wisdom (2005295), Brianna James (2100038) , Daniel Hylton (2111412), Spencer Darlington (2008141)
+# Joel Wisdom (2005295)
 # Occurrence: UM1
 # Title: CNS1001 Final Project - Snakes and Ladders Program
 # About: This snake and ladder game is coded using the pygame module, one of a few ways in 
